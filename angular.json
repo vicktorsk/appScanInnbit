@@ -34,7 +34,6 @@
               "src/styles.scss"
             ],
             "scripts": [
-              "./node_modules/onscan.js/onscan.min.js"
             ]
           },
           "configurations": {

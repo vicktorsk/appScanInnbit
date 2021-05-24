@@ -1,7 +1,7 @@
 import { Component, Inject, OnInit } from '@angular/core';
 import { DOCUMENT } from '@angular/common';
 // @ts-ignore
-import * as OnScan from 'node_modules/onscan.js/onscan.js';
+import * as OnScan from 'node_modules/onscan.js/onscan.min.js';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
